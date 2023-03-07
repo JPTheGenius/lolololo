@@ -1,0 +1,17 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro num1,resultado
+		escreva("Digite o numero \n")
+		leia(num1)
+
+		para(inteiro i= 10000*30000;i >= -0 ; i--) {
+			escreva(num1, "-",i, "=", resultado=num1*i,"\n")
+			
+			}
+			
+
+	}
+} 
